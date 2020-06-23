@@ -2,9 +2,9 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Theme.Cerulean</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Shaun Walker</authors>
-    <owners>Shaun Walker</owners>
+    <owners>.NET Foundation</owners>
     <title>Oqtane Bootswatch Cerulean Theme</title>
     <description>A Custom Theme for the Oqtane Framework based on Bootswatch Cerulean</description>
     <copyright>.NET Foundation</copyright>
@@ -16,7 +16,7 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="1.0.0" />
+      <dependency id="Oqtane.Framework" version="1.0.1" />
     </dependencies>
   </metadata>
   <files>
