@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Oqtane.Theme.Cerulean</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>Shaun Walker</authors>
     <owners>.NET Foundation</owners>
     <title>Oqtane Bootswatch Cerulean Theme</title>
@@ -16,11 +16,11 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="1.0.1" />
+      <dependency id="Oqtane.Framework" version="2.0.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\netstandard2.1\Oqtane.Theme.Cerulean.Oqtane.dll" target="lib\netstandard2.1" /> 
+    <file src="bin\Release\net5.0\Oqtane.Theme.Cerulean.Oqtane.dll" target="lib\net5.0" /> 
     <file src="wwwroot\**\*.*" target="wwwroot" /> 
   </files>
 </package>
